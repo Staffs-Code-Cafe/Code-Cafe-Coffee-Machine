@@ -12,7 +12,7 @@ TOKEN = os.getenv("BOT_TOKEN")
 INTENTS = discord.Intents.default()
 
 
-bot = commands.Bot(command_prefix="!", intents=INTENTS)
+bot = commands.Bot(command_prefix="/", intents=INTENTS)
 tree = bot.tree
 
 
