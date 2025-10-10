@@ -1,7 +1,7 @@
 # ☕ Code Café Discord Bot
 
-Welcome to the official **Code Café Discord Bot** — built for the **University of Staffordshire** tech and programming community!  
-This bot is designed to make the Code Café server more interactive, organized, and engaging for developers, students, and tech enthusiasts alike.  
+Welcome to the official **Code Café Discord Bot** — built for the **University of Staffordshire** Code Café community!
+This bot is designed to make the Code Café server more interactive, organized, and engaging for developers and students alike.
 
 ---
 
