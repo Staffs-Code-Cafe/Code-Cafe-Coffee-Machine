@@ -79,9 +79,9 @@ We love community contributions!
 ## 🧠 Maintainers
 
 Connor:
-    📧 Discord: .dev175
-    📧 Instaram: https://www.instagram.com/fitnessjourneyconnor/
-    📧 GitHub: https://github.com/CMDCONN
+📧 Discord: .dev175
+📧 Instaram: https://www.instagram.com/fitnessjourneyconnor/
+📧 GitHub: https://github.com/CMDCONN
 
 And others:
     To be added...
