@@ -75,6 +75,8 @@ async def challenge_command(interaction: discord.Interaction):
 
 @tree.command(name="profile", description="View your Code Café stats and activity.")
 async def profile_command(interaction: discord.Interaction):
+    with open('users.data') as f:
+         print(f.read)
     user = interaction.user
     embed = discord.Embed(title=f"👤 {user.name}'s Profile", color=discord.Color.blue())
     embed.add_field(name="XP", value=str(random.randint(100, 5000)), inline=True)
@@ -93,7 +95,6 @@ async def github_command(interaction: discord.Interaction):
 async def quote_command(interaction: discord.Interaction):
     quote = random.choice(quotes)
     await interaction.response.send_message(f"☕ {quote}")
-
 
 
 @bot.event

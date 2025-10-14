@@ -60,6 +60,8 @@ Create a `.env` file from the .env.example (Instructions included):
 ```
 DISCORD_TOKEN=your_discord_bot_token_here
 ```
+Do the same for users.data.example with the removal of the .example extention
+
 
 ### 4. Run the bot
 ```bash
