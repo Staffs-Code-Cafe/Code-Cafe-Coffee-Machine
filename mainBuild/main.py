@@ -32,7 +32,13 @@ quotes = [
     "Programmers turn caffeine into code. Not me though, I just make it.",
     "Stay grounded and keep coding. Ha",
     "Life begins after coffee. I'll just keep making it i suppose.",
-    "You got this — just one more bug to fix! When will you fix mine though."
+    "You got this — just one more bug to fix! When will you fix mine though.",
+    "Drink coffee. Because rewriting the same function for the third time at 2am builds character.",
+    "Behind every successful commit is a developer powered by equal parts caffeine and regret.",
+    "Coffee: because your code won’t compile without emotional support.",
+    "One cup of coffee away from replacing your app with a handwritten letter and a carrier pigeon.",
+    "Coffee doesn't solve problems, but it makes you care slightly less that your API call just lit itself on fire.",
+    "Without coffee, there is chaos. With coffee… still chaos, but at least you're alert while it burns.",
 ]
 
 
